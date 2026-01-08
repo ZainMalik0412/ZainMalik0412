@@ -47,10 +47,12 @@
 <a href="https://github.com/ZainMalik0412/ecs-project" target="_blank">
   <img src="https://img.shields.io/badge/ecs--project-AWS%20ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" alt="ecs-project" />
 </a>
+<br/>
 
 <a href="https://github.com/ZainMalik0412/ecsv2-project" target="_blank">
   <img src="https://img.shields.io/badge/ecsv2--project-AWS%20ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" alt="ecsv2-project" />
 </a>
+<br/>
 
 <a href="https://github.com/ZainMalik0412/eks-project" target="_blank">
   <img src="https://img.shields.io/badge/eks--project-AWS%20EKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="eks-project" />
