@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I’m Zain Malik 👨‍💻</h1>
-  <h3>DevOps learner building AWS, Terraform, Docker and CI CD projects in public</h3>
+  <h3>DevOps learner building AWS, Terraform, Docker and CI CD projects</h3>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=ZainMalik0412&style=for-the-badge" alt="Profile views" />
@@ -21,15 +21,14 @@
 
 ---
 
-## Featured repos
+## DevOps learning
 
-### DevOps learning repo
 <a href="https://github.com/ZainMalik0412/devops-learning" target="_blank">
   <img src="https://img.shields.io/badge/DevOps%20Learning%20Repo-111827?style=for-the-badge&logo=github&logoColor=white" alt="DevOps Learning Repo" />
 </a>
 
 <details>
-  <summary>What’s inside</summary>
+  <summary>Topics covered</summary>
 
 - Linux
 - Bash scripting
@@ -43,7 +42,7 @@
 
 ---
 
-### Projects
+## Featured Projects
 
 <a href="https://github.com/ZainMalik0412/ecs-project" target="_blank">
   <img src="https://img.shields.io/badge/ecs--project-AWS%20ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" alt="ecs-project" />
@@ -76,21 +75,3 @@
 
 ### Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## What I’m working on now
-
-- ✅ Improving documentation and structure across my learning repo
-- ✅ Building more end to end projects using AWS and Terraform
-- ✅ Getting more confident with Kubernetes and EKS
-
----
-
-## Links
-
-- LinkedIn: https://www.linkedin.com/in/zain-malik-81787533a/
-- DevOps learning repo: https://github.com/ZainMalik0412/devops-learning
-- ecs-project: https://github.com/ZainMalik0412/ecs-project
-- ecsv2-project: https://github.com/ZainMalik0412/ecsv2-project
-- eks-project: https://github.com/ZainMalik0412/eks-project
